@@ -1,6 +1,6 @@
 # Mist
-[mistability.com](https://mistability.com)
-[Apple App Store](https://apps.apple.com/us/app/mist/id6444297303)<br>
+[mistability.com](https://mistability.com)<br>
+[Apple App Store](https://apps.apple.com/us/app/mist/id6444297303)
 
 # Description
 Mist is a platform which turns your ideas into art.<br>
